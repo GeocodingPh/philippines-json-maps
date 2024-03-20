@@ -15,5 +15,8 @@
     "fs": "^0.0.1-security",
     "glob": "^10.3.10",
     "mongoose": "^8.2.1"
+  },
+  "scripts": {
+    "go": "ts-node src"
   }
 }
