@@ -1,0 +1,19 @@
+{
+  "name": "philippines-json-maps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GeocodingPh/philippines-json-maps.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.27",
+    "typescript": "^5.4.2",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "chalk": "2.4.2",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "glob": "^10.3.10",
+    "mongoose": "^8.2.1"
+  }
+}
